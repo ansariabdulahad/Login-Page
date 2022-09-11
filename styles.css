@@ -17,7 +17,7 @@ body {
 }
 
 .pagewrapper {
-    background-image: url("images/login-bg-image.jpg");
+    background-image: url("login-bg-image.jpg");
     height: 100vh;
     width: 100vw;
     background-position: center;
